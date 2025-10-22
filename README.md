@@ -1,6 +1,6 @@
 # VaxxVote
-##Contents of the Repository##
-###Section 1: Software and Platform Section###
+## Contents of the Repository
+### Section 1: Software and Platform Section###
 ## Software and Platform
 
 **Software:** Google Colab and Jupyter Notebooks
@@ -23,8 +23,8 @@ Make an H2 (##) section explaining the contents of the repository ● Section 1:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/srujanay18/SentiCook.git
-   cd SentiCook
+   git clone https://github.com/srujanay18/VaxxVote.git
+   cd VaxxVote
    ```
 
 2. **Install required packages:**
@@ -42,12 +42,12 @@ Make an H2 (##) section explaining the contents of the repository ● Section 1:
    **Step 2: Exploratory Analysis**
    - Open `SCRIPTS/2_exploratory_plots.ipynb` in Jupyter Notebook or upload to Google Colab
    - Execute all cells in order
-   - This will generate descriptive statistics and visualizations in `OUTPUT/exploratory/`
+   - This will generate descriptive statistics and visualizations in `README.md` in the DATA folder
 
    **Step 3: Machine Learning Models**
    - Open `SCRIPTS/3_model.ipynb` in Jupyter Notebook or upload to Google Colab
    - Execute all cells in order
    - This will perform the regression and statistical analysis used in our significance test and generate performance visualizations in `OUTPUT/model visualizations/`
 
-**Note:** If using Google Colab, upload the dataset file `Recipe Reviews and User Feedback Dataset.csv` to the `/content/` directory before running the notebooks.
+**Note:** If using Google Colab, upload the dataset files `merged_influenza_presidents_data.csv` and `merged_vaccination_presidents_data` to the `/content/` directory before running the notebooks.
 
