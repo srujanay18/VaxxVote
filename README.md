@@ -1,6 +1,6 @@
 # VaxxVote
 ## Contents of the Repository
-### Section 1: Software and Platform Section###
+### Section 1: Software and Platform Section
 ## Software and Platform
 
 **Software:** Google Colab and Jupyter Notebooks
