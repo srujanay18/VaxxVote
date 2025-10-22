@@ -51,3 +51,10 @@ Make an H2 (##) section explaining the contents of the repository ● Section 1:
 
 **Note:** If using Google Colab, upload the dataset files `merged_influenza_presidents_data.csv` and `merged_vaccination_presidents_data` to the `/content/` directory before running the notebooks.
 
+
+
+
+<img width="821" height="449" alt="f_DTP coverage over time" src="https://github.com/user-attachments/assets/6a0965ec-8497-423c-8e95-b4d31e0e5438" />
+
+
+
