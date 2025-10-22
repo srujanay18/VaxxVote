@@ -1,3 +1,5 @@
+# VaxxVote MetaData
+
 ### Data Summary
 The datasets were taken from established public health agencies like the WHO and CDC. Specifically, the WHO has a collection of vaccination coverage data (held as percent of the US population who has received a dose of the specific immunization) and the CDC collects a count dataset on Influenza vaccinations. Each is held as time-series data with a year as a key. From the WHO vaccination coverage, we are using three types of immunization: Rubella, Measles, Diphtheria Tetanus Toxoid and Pertussis (DTP) vaccines. Each of these datasets have a variable number of rows depending on when other agencies collected data (i.e. official data may only be collected every couple of years, so 2021 may have multiple entries). Once cleaned, this data only has 45 rows, representative of the 45 years in our sample. From the CDC vaccination count we are using the Influenza vaccine. This dataset has 45 rows representative of our sample.
 
