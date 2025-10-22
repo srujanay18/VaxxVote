@@ -53,8 +53,3 @@ Make an H2 (##) section explaining the contents of the repository ● Section 1:
 
 
 
-
-<img width="821" height="449" alt="f_DTP coverage over time" src="https://github.com/user-attachments/assets/6a0965ec-8497-423c-8e95-b4d31e0e5438" />
-
-
-
