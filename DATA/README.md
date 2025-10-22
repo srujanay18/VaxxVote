@@ -11,7 +11,7 @@ In terms of ethicality, all the vaccination coverage data provided by both WHO a
 
 ## Data Dictionary
 
-### Table 1: Vaccination Coverage Data
+### Table 1: U.S. 1st Dose Vaccination Coverage Data (Rubella, DTP, Measles)
 
 | **Column** | **Description** | **Potential Responses** |
 |-------------|----------------|--------------------------|
@@ -29,7 +29,7 @@ In terms of ethicality, all the vaccination coverage data provided by both WHO a
 
 ---
 
-### Table 2: Global Dose Totals
+### Table 2: U.S Dose Totals (Influenza)
 
 | **Column** | **Description** | **Potential Responses** |
 |-------------|----------------|--------------------------|
@@ -38,7 +38,7 @@ In terms of ethicality, all the vaccination coverage data provided by both WHO a
 
 ---
 
-### Table 3: U.S. Presidential Data
+### Table 3: U.S. Presidential Party Data
 
 | **Column** | **Description** | **Potential Responses** |
 |-------------|----------------|--------------------------|
