@@ -16,7 +16,7 @@
 **Platform:** Windows and Mac
 
 ## Map of the Documentation
-
+```markdown
 VaxxVote/
 ├── DATA/
 │ ├── final_datasets/
@@ -40,7 +40,7 @@ VaxxVote/
 │ └── t_OLS regression results vaccinations.png
 ├── LICENSE
 └── README.md
-
+```
 
 ## Instructions for Reproducing the Results
 
