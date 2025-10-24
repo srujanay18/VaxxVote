@@ -39,7 +39,7 @@
 │ ├── t_OLS regression results influenza.png
 │ └── t_OLS regression results vaccinations.png
 ├── LICENSE
-└── README.md```
+└── README.md ```
 
 
 ## Instructions for Reproducing the Results
