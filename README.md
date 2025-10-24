@@ -9,6 +9,7 @@
 - pandas
 - numpy
 - matplotlib
+- statsmodels.formula.api
 - seaborn
 - scikit-learn
 - scipy
