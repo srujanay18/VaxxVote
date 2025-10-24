@@ -17,7 +17,7 @@
 
 ## Map of the Documentation
 
-VaxxVote/
+```markdown VaxxVote/
 ├── DATA/
 │ ├── final_datasets/
 │ │ ├── merged_influenza_presidents_data.csv
@@ -39,7 +39,7 @@ VaxxVote/
 │ ├── t_OLS regression results influenza.png
 │ └── t_OLS regression results vaccinations.png
 ├── LICENSE
-└── README.md
+└── README.md```
 
 
 ## Instructions for Reproducing the Results
