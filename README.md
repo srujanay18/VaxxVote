@@ -19,25 +19,25 @@
 
 VaxxVote/
 ├── DATA/
-│   ├── final datasets/
-│   │   └── merged_influenza_presidents_data.csv
-│   │   └── merged_vaccination_presidents_data.csv
-│   ├── original_datasets/
-│   │   └── Diphtheria tetanus toxoid and pertussis (DTP) vaccination coverage 2025-15-10 15-11 UTC (2).xlsx
-│   │   └── Measles vaccination coverage 2025-15-10 14-12 UTC.xlsx
-│   │   └── Rubella vaccination coverage 2025-20-10 09-42 UTC.xlsx
-│   │   └── Influenza Vaccine Doses Distributed in the United States, By Season (1).csv
-│   └── README.md
+│ ├── final_datasets/
+│ │ ├── merged_influenza_presidents_data.csv
+│ │ └── merged_vaccination_presidents_data.csv
+│ ├── original_datasets/
+│ │ ├── Diphtheria tetanus toxoid and pertussis (DTP) vaccination coverage 2025-15-10 15-11 UTC (2).xlsx
+│ │ ├── Measles vaccination coverage 2025-15-10 14-12 UTC.xlsx
+│ │ ├── Rubella vaccination coverage 2025-20-10 09-42 UTC.xlsx
+│ │ └── Influenza Vaccine Doses Distributed in the United States, By Season (1).csv
+│ └── README.md
 ├── SCRIPTS/
-│   ├── 1_cleaning.ipynb
-│   ├── 2_exploratory_plots.ipynb
-│   └── 3_model.ipynb
+│ ├── 1_cleaning.ipynb
+│ ├── 2_exploratory_plots.ipynb
+│ └── 3_model.ipynb
 ├── OUTPUT/
-│   └── model_visualizations/
-│       └── f_Influenza Doses Administered Over Time by Political Party.png
-│       └── f_Vaccination Coverage Over Time by Political Party.png
-│       └── t_OLS regression results influenza.png
-│       └── t_OLS regression results vaccinations.png
+│ └── model_visualizations/
+│ ├── f_Influenza Doses Administered Over Time by Political Party.png
+│ ├── f_Vaccination Coverage Over Time by Political Party.png
+│ ├── t_OLS regression results influenza.png
+│ └── t_OLS regression results vaccinations.png
 ├── LICENSE
 └── README.md
 
